@@ -1,6 +1,6 @@
 GIT
-  remote: https://github.com/kivanio/brcobranca.git
-  revision: 9bb3defe9e075c9efd94700ab680937c910369a5
+  remote: https://github.com/akretion/brcobranca.git
+  revision: ed71bf79cc8fbcc7c8bb7fe172f173360c726936
   specs:
     brcobranca (9.2.4)
       parseline (~> 1.0.3)
